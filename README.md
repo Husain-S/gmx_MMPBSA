@@ -1,2 +1,2 @@
 # gmx_MMPBSA
-cmx_MMPBSA
+gmx_MMPBSA
